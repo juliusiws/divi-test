@@ -73,7 +73,7 @@ h3 { font-size: 22px; }
 h4 { font-size: 18px; }
 h5 { font-size: 16px; }
 h6 { font-size: 14px; }
-p { font-size: 160px; padding-bottom: 1em; line-height: 1.7em; }
+p { padding-bottom: 1em; line-height: 1.7em; }
 p:last-of-type { padding-bottom: 0; }
 strong { font-weight: bold; }
 cite, em, i { font-style: italic; }
